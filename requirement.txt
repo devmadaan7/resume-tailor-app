@@ -1,3 +1,4 @@
-__pycache__/
-.streamlit/secrets.toml
-*.pyc
+streamlit
+openai
+python-docx
+scikit-learn
